@@ -4,7 +4,7 @@ A modern AI-powered **Travel Itinerary Generator** built with [Agno](https://pyp
 This project comes in two flavors:
 
 - **CLI Version (`main.py`)** → Run locally in your terminal  
-- **Web App (`app.py`)** → A minimal [Streamlit](https://streamlit.io/) app with a clean UI
+- **Web App (`app.py`)** → A minimal [Streamlit](https://travel-itinerary-generator-agno-2ftqxnrgvv3jb4ltpgemnu.streamlit.app/) app with a clean UI
 <img width="1910" height="933" alt="image" src="https://github.com/user-attachments/assets/3d837f57-41fb-4f73-a4c9-c4ff53bd213f" />
 
 
