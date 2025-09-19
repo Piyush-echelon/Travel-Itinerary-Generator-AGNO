@@ -70,7 +70,6 @@ Advisor = Team(
 )
 
 
-# Store user inputs in session state
 
 print("Welcome to the Travel Itinerary Generator!, Please provide the following details: Country name, budget, and number of days for itinerary planning.")
 
