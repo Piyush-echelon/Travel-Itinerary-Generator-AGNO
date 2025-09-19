@@ -5,6 +5,7 @@ description = ""
 authors = [
     {name = "piyush",email = "piyush@orgzit.com"}
 ]
+package-mode = false
 requires-python = ">=3.13 <4.0"
 dependencies = [
     "agno (>=2.0.7,<3.0.0)",
