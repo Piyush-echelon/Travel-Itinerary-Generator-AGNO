@@ -1,0 +1,2 @@
+[tool.poetry]
+install_options = ["--no-root"]
