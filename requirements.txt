@@ -3,3 +3,4 @@ python-dotenv>=1.0
 agno>=2.0,<3
 groq>=0.31,<0.32
 duckduckgo-search>=6.2.6
+ddgs
