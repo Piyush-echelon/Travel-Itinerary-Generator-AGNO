@@ -66,7 +66,7 @@ The script will use your Groq model + DuckDuckGo integration to generate a detai
 I want to travel to Italy with a budget of 2000 USD for 5 days. Can you help me plan my trip?
 ```
 
-### 📝 Example Output (Markdown-formatted)
+### 📝 Example Output
 
 ```markdown
 ### Day 1: Rome
@@ -91,9 +91,7 @@ I want to travel to Italy with a budget of 2000 USD for 5 days. Can you help me 
 
 The project also includes a modern Streamlit app for a more interactive experience.
 
-👉 Access it here: **[URL]**
-
-*(URL will be added once hosting is live.)*
+👉 Access it here: **https://travel-itinerary-generator-agno-2ftqxnrgvv3jb4ltpgemnu.streamlit.app/**
 
 ---
 
